@@ -1,0 +1,55 @@
+(1)The Purpose of the repository
+
+The primary purpose of this repository is to demonstrate core version control skills using Git and collaborative workflows on GitHub.
+
+(2)The steps used to complete the tutorial
+
+Step 1: Install Git & Set Up GitHub
+1.Download & Install Git: Go to git-scm.com and download the version for your OS (Windows, Mac, or Linux). Run the installer using the default settings.
+2.Create a GitHub Account: Sign up at github.com.
+3.Configure Git Locally: Open your terminal Git Bash (Windows) and introduce yourself to Git
+
+Step 2: Create a Local Git Repository
+1.Open your terminal or Git Bash.
+2.Create a new folder for your project and navigate into it
+
+Step 3: Add a Classmate as a Collaborator
+1.Go to GitHub and click the + icon in the top right  New repository.
+2.Name your repository  and click Create repository.
+3.Link your local repository to GitHub by copying the commands provided on the page:
+4.Add classmate:
+1.Inside your GitHub repository page, click Settings (gear icon at the top).
+2.Click Collaborators in the left sidebar.
+3.Click Add people, type your classmate’s GitHub username or email, and send the invite.
+4.Your classmate must check their email or GitHub notifications to accept the invite.
+
+Step 4: Create a New Branch
+Create and switch to a new working branch (replace feature-branch with whatever name you like).
+
+Step 5: Add a New File
+Create a new file containing your first and last name.
+
+Step 6: Commit the File
+Stage the new file and commit it with a clear message.
+
+Step 7: Push the New Branch to GitHub
+Push your newly created branch up to your online GitHub repository.
+
+Step 8: Create a Pull Request (PR)
+1.Go to your repository page on GitHub. You will see a yellow banner saying your branch has recent pushes.
+2.Click the green Compare & pull request button.
+3.On the right side of the PR creation screen, look for the Reviewers section.
+4.Click the gear icon next to Reviewers to select my classmate's name.
+5.Click Create pull request.
+
+Step 9: Wait for Approval
+ My classmate needs to go to your PR page, click Files changed, click Review changes, select Approve, and submit their review.
+While i wait, this is the perfect time to open their repository and review their pull request for them!
+
+Step 10: Merge the Branch
+1.Once my classmate has approved it, go back to your Pull Request on GitHub.
+2.Scroll to the bottom of the page and click the green Merge pull request button.
+3.Click Confirm merge
+
+(3)The names of both collaborators involved
+ collaborators name: Rashaan Miggins Jason Liverpool
